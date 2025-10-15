@@ -1,0 +1,15 @@
+# Ambientes virtuais e cache
+venv/
+__pycache__/
+*.pyc
+
+# Banco de dados local
+*.db
+
+# Arquivos de ambiente (contém tokens e senhas)
+.env
+.env.*
+
+# Logs e arquivos temporários
+*.log
+.DS_Store
